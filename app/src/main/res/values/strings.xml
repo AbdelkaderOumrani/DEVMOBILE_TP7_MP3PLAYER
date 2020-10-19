@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP3 PLAYER</string>
+    <string name="download">Download</string>
+    <string name="urihint">mp3 file url</string>
+</resources>
